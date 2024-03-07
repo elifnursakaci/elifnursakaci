@@ -20,7 +20,7 @@
     <header>
         <h1>Hello, I'm Elifnur Şakacı</h1>
         <p>I'm a React front-end developer with expertise in various technologies. I'm proficient in HTML, CSS, SQL, PHP, Delphi, and JavaScript. Additionally, I have skills in Adobe software programs.</p>
-    </header>
+    
 
  
         <p>I enjoy crafting creative solutions and building user-friendly interfaces. Staying updated with advancements in the software world and continuously learning is something I find exciting.</p>
@@ -33,7 +33,7 @@
 
     
         <p>Thank you!</p>
-   
+   </header>
 </body>
 
 </html>
